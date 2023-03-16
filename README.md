@@ -1,6 +1,6 @@
 # leetcode-python
 Practice and explanations of leetcode problems.
 
-##Arrays & Hashing
+## Arrays & Hashing
 
-[217 - Contains Duplicate](leetcode-python/217 - Contains Duplicate.md)
+[217 - Contains Duplicate](arrays-and-hashing/217-contains-duplicate.md)
