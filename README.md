@@ -8,3 +8,7 @@ Practice and explanations for leetcode problems.
 [242 - Valid Anagram](arrays-and-hashing/242-valid-anagram.md)
 
 [1 - Two Sum](arrays-and-hashing/1-two-sum.md)
+
+## Stack
+
+[20 - Valid Parentheses](stack/20-valid-parentheses)
