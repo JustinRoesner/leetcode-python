@@ -11,4 +11,4 @@ Practice and explanations for leetcode problems.
 
 ## Stack
 
-[20 - Valid Parentheses](stack/20-valid-parentheses)
+[20 - Valid Parentheses](stack/20-valid-parentheses.md)
