@@ -9,6 +9,10 @@ Practice and explanations for leetcode problems.
 
 [1 - Two Sum](arrays-and-hashing/1-two-sum.md)
 
+## Two Pointers
+
+[125 - Valid Palindrome](two-pointers/125-valid-palindrome.md)
+
 ## Stack
 
 [20 - Valid Parentheses](stack/20-valid-parentheses.md)
