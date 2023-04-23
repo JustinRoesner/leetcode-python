@@ -20,3 +20,7 @@ Practice and explanations for leetcode problems.
 ## Stack
 
 [20 - Valid Parentheses](stack/20-valid-parentheses.md)
+
+## Stack
+
+[206 - Reverse Linked List](linked-list/206-reverse-linked-list.md)
