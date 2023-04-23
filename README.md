@@ -21,6 +21,6 @@ Practice and explanations for leetcode problems.
 
 [20 - Valid Parentheses](stack/20-valid-parentheses.md)
 
-## Stack
+## Linked List
 
 [206 - Reverse Linked List](linked-list/206-reverse-linked-list.md)
